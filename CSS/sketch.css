@@ -1,0 +1,57 @@
+.container {
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	background-color: #bccbde;
+	border: solid 2px;
+}
+
+body {
+	font-family: Verdana;
+}
+
+header {
+	color: #e05915;
+	width: 300px;
+	margin: auto;
+	margin-top: -20px;
+}
+
+.titleHead {
+	width: 500px;
+	margin: auto;
+	margin-bottom: 30px;
+	background-color: #e6e9f0;
+	text-align: center;
+	padding: 10px;
+}
+
+.functionButtons buttons {
+	width: 100px;
+	margin: auto;
+	display: inline-block;
+}
+
+.square {
+	opacity: 0;
+	background-color: #431c5d;
+	margin: 0px;
+	display: inline-block;
+	float: left;
+}
+
+#reset {
+	margin-right: 25px;
+	width: 100px;
+	background-color: #e05915;
+}
+
+#randomColor {
+	background-color: #e05915;
+	margin-right: 25px;
+}
+
+#gradual {
+	background-color: #e05915;
+	width: 100px;
+}
